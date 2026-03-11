@@ -11,7 +11,9 @@ Use this repository to:
 
 | Repository | Description |
 |---|---|
-| [nvcf-nvca-operator](https://github.com/NVIDIA/nvcf-nvca-operator) | NVCF Cluster Agent Operator |
+| [nvcf-go](https://gitlab-master.nvidia.com/egx/intelligent-infra/nvcf-go) | NVCF Common |
+| [byoo-otel-collector](https://gitlab-master.nvidia.com/nvcf/monitoring/byoo-otel-collector) | BYO Observability OpenTelemetry Collector |
+| [nvcf-otelconfig](https://gitlab-master.nvidia.com/nvcf/monitoring/nvcf-otelconfig) | NVCF OpenTelemetry Configuration Library |
 
 > More repositories will be listed here as they are open sourced.
 
